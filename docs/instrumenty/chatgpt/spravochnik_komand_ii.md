@@ -34,3 +34,11 @@
 
 * Mail ru – https://paradigm.mail.ru/voice_and_tone.
 * РТЛабс – https://www.figma.com/proto/tNIHGb7SQETRIBN8UyQ3Sr/Editorial-policy?page-id=0%3A1&type=design&node-id=43563-12995&viewport=1071%2C133%2C0.03&t=my36G2NL9fYPWaP0-1&scaling=scale-down&hide-ui=1&starting-point-node-id=4551%3A10104.
+
+<p align="center">
+   <figure>
+    <img src="image.png" 
+    alt="Текст для ссылки, расположение по центру"/>
+    <figcaption align="center">Подпись к рисунку</figcaption>
+    </figure>
+</p>
