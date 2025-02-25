@@ -16,7 +16,7 @@
 
 ![текст](images/terminal_git_bash.png)
 
-Описание команд, выполняемых в терминале *Git Bash*, для работы с локальным репозиторием см. в подразделе [Команды Git для работы в терминале]([/primery/files/razdel_4_rabota_s_lokalnum_repozitoriem/](https://ekaterinka17.github.io/primery/files/razdel_4_rabota_s_lokalnum_repozitoriem/#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20Git%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20%D0%B2%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B5)) инструкции [Руководство по Git](https://ekaterinka17.github.io/primery/). В подразделе **Работа c Git через интерфейс VS Code** показаны альтернативные команды Git, которые можно выполнять с помощью функционала VS Code.
+Описание команд, выполняемых в терминале *Git Bash*, для работы с локальным репозиторием см. в подразделе [Команды Git для работы в терминале](https://ekaterinka17.github.io/primery/files/razdel_4_rabota_s_lokalnum_repozitoriem/#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20Git%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20%D0%B2%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B5) инструкции [Руководство по Git](https://ekaterinka17.github.io/primery/). В подразделе **Работа c Git через интерфейс VS Code** показаны альтернативные команды Git, которые можно выполнять с помощью функционала VS Code.
 
 ## Работа c Git через интерфейс VS Code
 
