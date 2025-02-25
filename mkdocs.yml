@@ -38,9 +38,6 @@ theme: # Тема сайта, информация о ее параметрах
       primary: deep purple
       accent: blue
 
-nav: # Структура сайта
-    - interfeis_vs_code_dla_raboty_s_git.md
-
 extra:
   social: # Ссылки на соц.сети
     - icon: fontawesome/brands/github-alt # Иконка гитхаба
