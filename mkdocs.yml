@@ -39,7 +39,6 @@ theme: # Тема сайта, информация о ее параметрах
       accent: blue
 
 nav: # Структура сайта
-    - Главная страница: index.md
     - Git: 
       - git/interfeis_vs_code_dla_raboty_s_git.md
 
