@@ -40,12 +40,8 @@ theme: # Тема сайта, информация о ее параметрах
 
 nav: # Структура сайта
     - Главная страница: index.md
-    - Инструменты: 
-      - instrumenty/index.md
-      - Сhatgpt: instrumenty/chatgpt/spravochnik_komand_ii.md
-      - Сonfluence: instrumenty/confluence/plagin_talk.md
-    - Скиллы технического писателя:
-      - skills/skills_techwriter.md
+    - Git: 
+      - interfeis_vs_code_dla_raboty_s_git.md
 
 extra:
   social: # Ссылки на соц.сети
