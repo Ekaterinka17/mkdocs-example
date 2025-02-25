@@ -38,7 +38,7 @@ theme: # Тема сайта, информация о ее параметрах
       accent: blue
 
 nav: # Структура сайта
-    - interfeis_vs_code_dla_raboty_s_git.md
+    - index.md
 
 extra:
   social: # Ссылки на соц.сети
