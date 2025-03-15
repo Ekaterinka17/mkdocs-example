@@ -1,4 +1,4 @@
-site_name: Инструкция «Интерфейс VS Code для работы с гит» # Название сайта
+site_name: Инструкция «Интерфейс VS Code для работы с Git» # Название сайта
 site_description: Rivers and lakes of Russia # Описание сайта, добавляется в meta-теги
 theme: # Тема сайта, информация о ее параметрах
   name: material # Название темы
